@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohamed</h1>
-<h3 align="center">A passionate frontend developer react from Egypt</h3>
+<h1 align="center">Hi 👋, I'm Mohamed Mahmoud</h1>
+<h3 align="center">I'm frontend developer react</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-mahmoud-frontend&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-mahmoud-frontend" /> </p>
 
